@@ -1,0 +1,21 @@
+id: ecc96531-2ed0-4449-a77d-b4f98a92c0b2
+type: operation
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    d83a52ec-06e2-4d51-9f5b-de0f9c3a7ef4:
+      x: 226.67062314540058
+      y: 14.08704253214639
+name: newOperation
+method: http_post
+description: Post operation
+parameters:
+- type: NewDto
+  description: New Parameter
+  name: value
+  direction: in
+- type: boolean
+  description: New Parameter
+  name: result
+  direction: out

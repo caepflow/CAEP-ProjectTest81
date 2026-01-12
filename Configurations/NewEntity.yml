@@ -1,0 +1,25 @@
+id: deb90233-e02c-44bf-b00c-e7fc3ea675b4
+type: entity
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    6512b64a-4fb0-4d51-8519-e5d21043e642:
+      x: 137.5
+      y: 67.5
+entityType: domain
+name: NewEntity
+fields:
+- type: string
+  description: New Field
+  isPublic: true
+  enumerable: true
+  name: name
+- type: NewEntityEnum
+  description: New Field
+  isPublic: true
+  enumerable: true
+  name: type
+description: Entity
+associations: []
+useRepository: true

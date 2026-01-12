@@ -1,0 +1,14 @@
+id: 1810b6d7-dd12-4cd2-b59e-b7f2efe63de3
+type: contracts
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    e2192c91-55ec-4509-a88d-54458a30a84e:
+      x: 140.5
+      y: 422
+name: NewContracts
+description: CommonDto
+children:
+- id: 0a34f9ec-f33d-4447-97cf-070c714e1c9b
+  type: dto
